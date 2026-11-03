@@ -78,4 +78,4 @@ Use sample strings only. Do not collect credentials. Do not use this
 project to deceive anyone or to test websites without permission.
 
 ## Author
-Sample Author, Instructor Reference, EWB Courses
+Devesh Pant, 24 october 2026 Batch, EWB Courses
